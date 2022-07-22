@@ -8,3 +8,12 @@ PERSONAS A QUIENES SEGUIR:
 - Fernando Herrera
 - Maximilian Swartz
 - El Pelado
+
+
+22/07/2022
+
+** CLASE DE GIT **
+- set-upstream: Comuncación directa sincrónizada con el repositorio remoto. Cuando se le haga push, haga todo lo necesario para que se haga "realidad" el push
+- Mezcla - merge:  
+el "git push -u ..." la parte de "-u" significa que se hace una canal d ecomunicación por defecto para que cuando se haga push vaya automaticamente al repositorio que se quiera. Solo se hace una vez
+Normalmente se hace git push origin <name>
