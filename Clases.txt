@@ -17,3 +17,13 @@ PERSONAS A QUIENES SEGUIR:
 - Mezcla - merge:  
 el "git push -u ..." la parte de "-u" significa que se hace una canal d ecomunicación por defecto para que cuando se haga push vaya automaticamente al repositorio que se quiera. Solo se hace una vez
 Normalmente se hace git push origin <name>
+
+04/08/2022
+
+Consejo para imágenes:
+- Se colocan con displaay: block; width = 100%;
+- El padre de la imagen (el contenedor) es el que cambia en tamaño
+
+margin-inline: Agregar margen a ambos lados
+margin-block: Agregar margen arriba y abajo
+para usar justify-self el padre debe ser flex 
